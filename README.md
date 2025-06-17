@@ -1,6 +1,6 @@
 # Music Bot Project
 
-![Music Cover](music.jpg)
+![Music Cover](https://files.catbox.moe/gy2z8v.jpg)
 
 This is a music bot project that handles various music operations.
 
