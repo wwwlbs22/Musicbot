@@ -1,4 +1,4 @@
-# Music Bot Project
+# Music Bot 
 
 ![Music Cover](https://files.catbox.moe/gy2z8v.jpg)
 
