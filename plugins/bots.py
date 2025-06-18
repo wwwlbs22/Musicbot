@@ -1518,7 +1518,7 @@ async def commands_handler(client, callback_query):
                     "Cʀᴇᴀᴛᴏʀ",
                     url=f"https://t.me/NubDockerbot"
                 ),
-                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", "https://t.me/Daily_current_affair_quiz")
+                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", "https://t.me/LINKS_CHANNEL")
             ],
         ]
 
